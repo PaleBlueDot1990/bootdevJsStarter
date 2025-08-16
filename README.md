@@ -1,4 +1,4 @@
-# Tutorial Repository
+# JavaScript Tutorial Repository
 
 > **Note**: This repository was created while following the [Boot.dev JavaScript Course](https://www.boot.dev/courses/learn-javascript).  
 > It is intended solely for **learning and experimentation** of JavaScript, and not for production use.
