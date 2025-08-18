@@ -1,1 +1,1 @@
-Introductory piece of code to practice JavaScript on Backend
+Introductory piece of code to practice JavaScript on Backend.
